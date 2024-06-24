@@ -3,7 +3,7 @@
 <img align = "right" alt = "Coding" width="400" src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRncDhuOGtqbmJkaWdtNnZ0cmI2Z25wbDJnOTRkbXloeW55cGcxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
 
-- 🔭 I’m currently working on [ChatAI](https://github.com/ruchika2210/PDFAI.git)
+- 🔭 I’m currently working on [NovaFlux](https://github.com/ruchika2210/NovaFlux)
 
 - 👨‍💻 All of my projects are available at [https://ruchika2210.github.io/myPortfolio/](https://ruchika2210.github.io/myPortfolio/)
 
